@@ -10,6 +10,7 @@ Transition matrix is introduced more here
 Need to determine the transition matrix
 ![image](https://github.com/user-attachments/assets/04af3955-7b85-4bed-975b-f7e88d6a341b)
 7 actions: all directions + scan
+
 ![image](https://github.com/user-attachments/assets/db5ec620-6d86-4a33-83ed-7e4d272ac4ab)
 ### 1.2.2 Transition Matrix
 General alignment:
