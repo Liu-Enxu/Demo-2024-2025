@@ -21,5 +21,17 @@ Naïve Simplification of the problem: a priori num of hidden obstacles (In real-
 Now we just need to know how many hidden obstacles are found and move to corresponding states.
 ![image](https://github.com/user-attachments/assets/e560c3b2-5689-467f-a76b-1006c8d70176)
 
+Naïve Estimation of obstacle occurrence of an unscanned block:
+![image](https://github.com/user-attachments/assets/03de46d8-0576-4c9f-8af3-fffc2d704f8d)
+i.e. if too risk to move around, scan!
+
+## 1.3 Results
+### No scan
+https://github.com/user-attachments/assets/1052776b-1a22-43d1-8b5d-0297be5bb258
+### Scan
+https://github.com/user-attachments/assets/3667fc2b-0082-4048-b058-940e3cd03e0a
+### Iterations: Fine-tuned Scan
+https://github.com/user-attachments/assets/441e8422-77da-4799-8c29-cb26525197e7
+
 
 
