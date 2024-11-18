@@ -93,6 +93,7 @@ Problem setup: MuJoCo, inverted pendulum, controller design
 
 ## 4.2 Method
 Inverted pendulum models:
+
 ![image](https://github.com/user-attachments/assets/27b50c16-a9fd-4cb9-be50-69e35c4d0c89)
 ![image](https://github.com/user-attachments/assets/07ee66ae-9404-483d-afc7-6fce59abac07)
 Step-by-step: simulate using simplified models, then apply to the humanoid
@@ -100,15 +101,14 @@ PID,LQR,Cross-feedback etc.…
 
 ## 4.3 Result
 Design the models in cube model
-https://github.com/user-attachments/assets/31895acd-2482-41db-af10-7180ffec975e
-https://github.com/user-attachments/assets/78c6d34a-eee2-4bc5-aa72-7966d02a2a7e
+https://github.com/user-attachments/assets/a6b79e39-ad78-47be-b23a-4539aeb14b4e
+https://github.com/user-attachments/assets/be3685c8-903f-4bd5-a0af-31387c786725
 Validate in humanoid model
-https://github.com/user-attachments/assets/4d749930-0843-4ae1-9515-e39a5e260ee1
-https://github.com/user-attachments/assets/17bbe710-ceb3-4b58-b0d3-a0464d87aefb
-https://github.com/user-attachments/assets/6416f7ae-5d1a-47c5-907a-ea21a94d1abf
+https://github.com/user-attachments/assets/9bd2236d-70ca-4074-a87d-2972ae9976c3
+https://github.com/user-attachments/assets/5391411b-3c30-4bb2-8384-1d8c78bfaca9
+https://github.com/user-attachments/assets/01fd28f1-9c4b-457e-8c92-0677bf24fada
 Explore more (more DOF, more actuation)
-https://github.com/user-attachments/assets/5dabc400-c3ed-44e0-8a97-0996fd796a8c
-https://github.com/user-attachments/assets/7892e3f7-b54a-4a72-8453-c776832f7afb
+
 
 
 # 5 DAQ/trigger system for seat actuation system
