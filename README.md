@@ -101,9 +101,11 @@ PID,LQR,Cross-feedback etc.…
 
 ## 4.3 Result
 Design the models in cube model
+
 https://github.com/user-attachments/assets/a6b79e39-ad78-47be-b23a-4539aeb14b4e
 https://github.com/user-attachments/assets/be3685c8-903f-4bd5-a0af-31387c786725
 Validate in humanoid model
+
 https://github.com/user-attachments/assets/9bd2236d-70ca-4074-a87d-2972ae9976c3
 https://github.com/user-attachments/assets/5391411b-3c30-4bb2-8384-1d8c78bfaca9
 https://github.com/user-attachments/assets/01fd28f1-9c4b-457e-8c92-0677bf24fada
