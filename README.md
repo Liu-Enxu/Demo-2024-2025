@@ -15,10 +15,10 @@ Need to determine the transition matrix
 ### 1.2.2 Transition Matrix
 General alignment:
 ![image](https://github.com/user-attachments/assets/18c0e254-b245-4107-a653-0b0e80ccedc1)
-What about hidden blocks? 
+What about hidden blocks?
+
 Naïve Simplification of the problem: a priori num of hidden obstacles (In real-world: uncharted water area)
 Now we just need to know how many hidden obstacles are found and move to corresponding states.
-![image](https://github.com/user-attachments/assets/e74ccbda-cc49-453b-8ca6-1cddd60594c4)
 ![image](https://github.com/user-attachments/assets/e560c3b2-5689-467f-a76b-1006c8d70176)
 
 
