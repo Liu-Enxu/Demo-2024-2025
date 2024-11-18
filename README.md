@@ -132,6 +132,7 @@ Two Raspberry Pi pico microcontrollers, one acts as DAQ one acts as switch. IMU 
 
 ### 5.3 Result
 (If you wish to see more on this please arrange an online meeting)
+
 https://github.com/user-attachments/assets/0227ccb9-be26-496d-9703-80b09ed90ce0
 
 
