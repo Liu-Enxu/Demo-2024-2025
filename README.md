@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e942e466-079f-45df-b4e0-bb45ccb46c27)![image](https://github.com/user-attachments/assets/ffb6fc83-4d6a-40de-b2e1-4778aa867bcf)# Demo-2024-2025
+# Demo-2024-2025
 # 1 A Quick Deployment of Markov Decision Process in Partially-Unknown 3D Discrete Space
 ## 1.1 Problem Definition
 Markov Decision Process works well in 2D, but 3D space? Unsafe environment w/ limited info?
@@ -75,6 +75,7 @@ For obstacle avoidance:
 
 ## 3.3 Result
 For trajectory following:
+
 ![image](https://github.com/user-attachments/assets/d49734e5-7930-42fa-84cf-dd72f31c9536)
 ![image](https://github.com/user-attachments/assets/6a7bf83d-a25e-4f50-ae03-846694d4b774)
 For obstacle avoidance:
