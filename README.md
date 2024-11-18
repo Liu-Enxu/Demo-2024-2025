@@ -116,6 +116,10 @@ https://github.com/user-attachments/assets/01fd28f1-9c4b-457e-8c92-0677bf24fada
 
 Explore more (more DOF, more actuation)
 
+https://github.com/user-attachments/assets/41b17aa7-41e9-4071-9fad-47051af90e13
+
+https://github.com/user-attachments/assets/687c3fbe-72db-4566-a8e7-e0c04808a9ff
+
 
 
 # 5 DAQ/trigger system for seat actuation system
