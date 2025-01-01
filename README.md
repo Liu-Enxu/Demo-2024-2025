@@ -138,13 +138,9 @@ Listening to previous test subjects we decided to get more adjustable and bigger
 
 ### 5.2.2 DAQ system
 Two Raspberry Pi pico microcontrollers, one acts as DAQ one acts as switch. IMU connect to MUX, then connected to picos through I2C bus along with the GPS and the BME sensor.
-![image](https://github.com/user-attachments/assets/16958ad9-611b-4674-b6aa-ef0cc9e57aa6)
 
 ### 5.3 Result
 (If you wish to see more on this please arrange an online meeting)
-
-https://github.com/user-attachments/assets/0227ccb9-be26-496d-9703-80b09ed90ce0
-
 
 # 6 Quadcopter TOF/IMU data extraction
 ## 6.1 Problem Definition
