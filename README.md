@@ -86,6 +86,9 @@ For obstacle avoidance:
 
 
 # 4 Balancing Robot
+
+![Project report pdf](https://drive.google.com/file/d/1Haof7qUdgCBgDS3ly7qu5IyqUYcK8xv8/view?usp=sharing)
+
 ## 4.1 Problem Definition
 A fully model-based control robot balancing algorithm
 Implemented in various phases
